@@ -1,5 +1,5 @@
 ---
-title: Value Added Tax
+title: Another one
 image: /img/theorm_hero.png
 values:
   - heading: Shade-grown coffee
